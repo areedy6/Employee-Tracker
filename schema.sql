@@ -23,5 +23,5 @@
 -- role_id INT NOT NULL,
 -- CONSTRAINT fk_role FOREIGN KEY (role_id) REFERENCES role(id),
 -- manager_id INT, 
--- CONSTRAINT fk_manager FOREIGN KEY (manager_id) REFERENCES employee(id)
+-- CONSTRAINT fk_manager FOREIGN KEY (manager_id) REFERENCES employees(id)
 -- );
