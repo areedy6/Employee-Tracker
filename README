@@ -1,6 +1,6 @@
 
-An interface that makes it easy for non-developers to view and interact with information stored in databases
-known as a Content Management Systems.
+An interface that makes it easy for non-developers to view and interact with information stored in a SQL databases.
+(Content Management Systems)
 
 NPM packages used:
 
